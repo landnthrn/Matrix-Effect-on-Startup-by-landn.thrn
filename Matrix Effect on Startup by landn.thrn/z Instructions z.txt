@@ -1,0 +1,133 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOW TO INSTALL THE MATRIX EFFECT ON PC STARTUP:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Go to C:\Windows\ in your File Explorer or press Win + R and type %windir% hit enter
+
+In this folder create a new folder and title it ' Batch Files '
+
+Inside this folder place the .bat files, Entering the Matrix Startup.bat + Matrix One Tab.bat + Matrix 20 Tabs.bat
+
+Copy the path address of this folder which is  C:\Windows\Batch Files
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Window search Edit Enviorment Varibles, open it
+
+Go to the Advanced tab you'll see Enviorment Varibles at the bottom right 
+
+In the User variables box at the top, select on Path and click Edit
+
+Click New and paste the C:\Windows\Batch Files path address, then Ok
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+In your C:\Windows\Batch Files folder double click Matrix 20 Tabs and Matrix 1 Tab choose what one you like more and create a shortcut for it
+
+Press Win + R and type shell:startup 
+
+Drag the shortcut you made into your Startup folder 
+
+That's all the Matrix Effect will now appear whenever you startup your PC 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ENJOY :)  - landn.thrn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"You take the red pill you stay in wonderland, and I show you how deep the rabbit hole goes." - Morpheus
