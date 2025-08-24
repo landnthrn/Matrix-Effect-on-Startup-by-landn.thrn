@@ -1,7 +1,7 @@
 
 ![PREVIEW Matrix 20 Tabs](https://github.com/user-attachments/assets/6aefd6ba-1897-4ad6-bedb-1922086ca3c5)
 
-Matrix-Effect-on-Startup-by-landn.thrn  
+# Matrix-Effect-on-Startup-by-landn.thrn  
 Enjoy a cool Entering the Matrix effect everytime you log into your PC  
 
 Easily customizable  
