@@ -55,11 +55,6 @@ Then change the number to whatever you prefer
 
 ---
 
-**ENJOY :)**  
-– *landn.thrn*
-
----
-
 ## Found this useful?<img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="30"><br>
 
 [![Follow Me <3](https://img.shields.io/badge/Follow%20Me%20%3C3-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landnthrn)   
