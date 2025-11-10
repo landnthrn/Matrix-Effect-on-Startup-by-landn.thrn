@@ -1,6 +1,8 @@
 
 ![PREVIEW Matrix 20 Tabs](https://github.com/user-attachments/assets/6aefd6ba-1897-4ad6-bedb-1922086ca3c5)
 
+**"You take the red pill you stay in wonderland, and I show you how deep the rabbit hole goes."** *- Morpheus*
+
 # Matrix-Effect-on-Startup-by-landn.thrn  
 Enjoy a cool Entering the Matrix effect everytime you log into your PC  
 
