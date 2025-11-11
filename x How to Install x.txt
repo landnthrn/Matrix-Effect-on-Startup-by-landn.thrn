@@ -35,7 +35,6 @@ HOW TO IMPLEMENT THE MATRIX EFFECT ON PC STARTUP:
 
 — In your C:\Windows\Scripts folder, double-click Matrix 7 Tabs or Matrix 1 Tab to preview them  
    
-
 — Choose whichever you prefer and create a shortcut for it  
 
 — Press Win + R and type shell:startup  
