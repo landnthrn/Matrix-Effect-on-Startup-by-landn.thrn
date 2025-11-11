@@ -16,7 +16,7 @@ HOW TO IMPLEMENT THE MATRIX EFFECT ON PC STARTUP:
    Entering the Matrix Startup.bat, Matrix One Tab.bat, and Matrix 7 Tabs.bat  
 
 — Copy the path address of this folder:  
-   C:\Windows\Scripts  
+  C:\Windows\Scripts  
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -27,14 +27,16 @@ HOW TO IMPLEMENT THE MATRIX EFFECT ON PC STARTUP:
 — In the User variables box at the top, select Path and click Edit  
 
 — Click New and paste the path address:  
-   C:\Windows\Scripts  
+  C:\Windows\Scripts  
 
 — Then press OK  
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 — In your C:\Windows\Scripts folder, double-click Matrix 7 Tabs or Matrix 1 Tab to preview them  
-   Choose whichever you prefer and create a shortcut for it  
+   
+
+— Choose whichever you prefer and create a shortcut for it  
 
 — Press Win + R and type shell:startup  
 
