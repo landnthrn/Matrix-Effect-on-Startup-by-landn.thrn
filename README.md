@@ -1,6 +1,8 @@
 
 ![PREVIEW Matrix 20 Tabs](https://github.com/user-attachments/assets/6aefd6ba-1897-4ad6-bedb-1922086ca3c5)
 
+<img src="https://media1.tenor.com/m/sQ4MKuoKSPIAAAAd/lawrence-fishburne-morpheus.gif" width="60">  
+
 **"You take the red pill you stay in wonderland, and I show you how deep the rabbit hole goes."** *- Morpheus*
 
 # Matrix-Effect-on-Startup-by-landn.thrn  
