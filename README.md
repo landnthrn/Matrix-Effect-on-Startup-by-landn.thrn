@@ -51,7 +51,8 @@ That’s all! The Matrix Effect will now appear whenever you start up your PC
 ---
 
 ### NOTE:
-The 7 tabs option might run slowly depending on your computer’s performance   
+The 7 tabs option might run slowly depending on your computer’s performance  
+
 You can easily change the number of tabs, just right-click on the `Matrix 7 Tabs.bat` file and press **Edit**,  
 Then change the number to whatever you prefer
 
