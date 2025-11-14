@@ -84,10 +84,12 @@ That’s all! The matrix/hacker effect  will now appear whenever you start up yo
 
 ---
 
-### NOTE:  
+### NOTES:  
 
 - Don't rename the files or place them in other folders than `C:\Windows\Scripts\MatrixEffect` 
   unless you know how to change the paths in the files & shortcuts
+
+- If you want to customize the effects yourself it's rather simple
 
 - The Matrix Effect 1.2 option might run slowly depending on your computer.
 
