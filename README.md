@@ -1,10 +1,15 @@
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/27ebcf88-6b8f-4e5d-bf4e-0fd16ad9b90a" width="500">
-</p>
-
-![Effect 1 2 PREVIEW](https://github.com/user-attachments/assets/0592bd56-2169-4e87-8e59-b5b6cf5d3c16)
-![Effect 1 1 PREVIEW](https://github.com/user-attachments/assets/655cf05d-7c06-4101-b4fe-4953dd3f8888)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/27ebcf88-6b8f-4e5d-bf4e-0fd16ad9b90a" width="350">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0592bd56-2169-4e87-8e59-b5b6cf5d3c16" width="350"><br><br>
+      <img src="https://github.com/user-attachments/assets/655cf05d-7c06-4101-b4fe-4953dd3f8888" width="350">
+    </td>
+  </tr>
+</table>
 
 <img src="https://media1.tenor.com/m/sQ4MKuoKSPIAAAAd/lawrence-fishburne-morpheus.gif" width="60">  
 
