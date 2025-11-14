@@ -1,5 +1,8 @@
 
-![Effect 2 PREVIEW](https://github.com/user-attachments/assets/74c93792-1e14-4cbb-aa71-63376680f080)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/27ebcf88-6b8f-4e5d-bf4e-0fd16ad9b90a" width="500">
+</p>
+
 ![Effect 1 2 PREVIEW](https://github.com/user-attachments/assets/0592bd56-2169-4e87-8e59-b5b6cf5d3c16)
 ![Effect 1 1 PREVIEW](https://github.com/user-attachments/assets/655cf05d-7c06-4101-b4fe-4953dd3f8888)
 
