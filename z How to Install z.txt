@@ -1,0 +1,187 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MATRIX-EFFECT-ON-STARTUP-BY-LANDN.THRN
+
+Enjoy a cool matrix/hacker effect on PC startup
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOW TO SETUP:
+
+— Go to C:\Windows\ in your File Explorer or press Win + R and type %windir%
+
+— In this folder, create a new folder and title it `Scripts`  
+
+— Inside the `Scripts` folder created another called `MatrixEffect` 
+
+— Drag all the files from this download into the folder
+
+— Copy the path address of the folder:  
+  C:\Windows\Scripts\MatrixEffect
+
+— Windows search for Edit Environment Variables and open it  
+
+— System properties will open, select Environment Variables
+
+— In the User Variables box at the top, select Path and click Edit  
+
+— Click New and paste the path address:  
+  C:\Windows\Scripts\MatrixEffect
+
+— (Optional but fullproof) Add a path for C:\Windows\Scripts as well
+
+— Select OK > OK > OK to close Environment Variables 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOW TO PREVIEW THE EFFECTS:
+
+You can preview the Matrix Effect 1.1 & 1.2 just by double click, for the Hacker Effects you'll have to:
+
+— Create a shortcut for Hacker Effect 1.1 & 1.2 
+
+— Right click shortcut > Properties > Font 
+
+— Select the Cascadia Code font > Apply 
+
+— Select the Layout tab 
+
+— Under the Window Size width & height change the height to 90 > Apply > OK
+
+— Now you can preview the hacker effects and move on to next step
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOW TO SET IT FOR STARTUP
+
+— Choose whichever you prefer, 
+  - if you want a Hacker Effect copy the shortcut 
+  - if you want a Matrix Effect create a shortcut for it then right click it > cut
+
+— Press Win + R and type shell:startup  
+
+— Paste the shortcut for the effect into that startup folder
+
+That’s all! The matrix/hacker effect  will now appear whenever you start up your PC.  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+NOTE:  
+
+— Don't rename the files or place them in other folders than C:\Windows\Scripts\MatrixEffect 
+  unless you know how to change the paths in the files & shortcuts
+
+— The Matrix Effect 1.2 option might run slowly depending on your computer.
+
+  - You can easily change the number of tabs — just right-click on the Matrix 7 Tabs.bat file and press Edit,  
+    then change the number to whatever you prefer on this chunk
+
+    :: Number of tabs to open
+    set "count=7"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Find more of my creations on Github:  
+https://github.com/landnthrn?tab=repositories  
+
+Support me on Buy Me a Coffee  
+https://buymeacoffee.com/landn.thrn  
+
+Paypal Donation:  
+https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"You take the red pill you stay in wonderland, and I show you how deep the rabbit hole goes." - Morpheus
