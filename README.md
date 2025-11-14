@@ -26,7 +26,7 @@
 
 ## HOW TO SETUP:
 
-- Go to `C:\Windows\` in your File Explorer or press `Win + R` and type `%windir%`
+- Go to `C:\Windows` in your File Explorer or press `Win + R` and type `%windir%`
 
 - In this folder, create a new folder and title it `Scripts`  
 
