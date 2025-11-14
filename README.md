@@ -1,62 +1,96 @@
 
-![PREVIEW Matrix 20 Tabs](https://github.com/user-attachments/assets/6aefd6ba-1897-4ad6-bedb-1922086ca3c5)
+![Effect 2 PREVIEW](https://github.com/user-attachments/assets/74c93792-1e14-4cbb-aa71-63376680f080)
+![Effect 1 2 PREVIEW](https://github.com/user-attachments/assets/0592bd56-2169-4e87-8e59-b5b6cf5d3c16)
+![Effect 1 1 PREVIEW](https://github.com/user-attachments/assets/655cf05d-7c06-4101-b4fe-4953dd3f8888)
 
 <img src="https://media1.tenor.com/m/sQ4MKuoKSPIAAAAd/lawrence-fishburne-morpheus.gif" width="60">  
 
-**"You take the red pill you stay in wonderland, and I show you how deep the rabbit hole goes."** *- Morpheus*
-
-# Matrix-Effect-on-Startup-by-landn.thrn  
-Enjoy a cool Entering the Matrix effect everytime you log into your PC  
+**"You take the red pill you stay in wonderland, and I show you how deep the rabbit hole goes."**  
+*- Morpheus*
 
 ---
 
-# HOW TO IMPLEMENT THE MATRIX EFFECT ON PC STARTUP:
+# MATRIX & HACKER EFFECT ON STARTUP
+
+**Enjoy a cool matrix/hacker effect on PC startup**
 
 ---
 
-Go to `C:\Windows\` in your File Explorer or press **Win + R** and type `%windir%`, then hit **Enter**
+## HOW TO SETUP:
 
-In this folder, create a new folder and title it `Scripts`
+- Go to `C:\Windows\` in your File Explorer or press `Win + R` and type `%windir%`
 
-Inside this folder place the `.bat` files:  
-`Entering the Matrix Startup.bat`, `Matrix One Tab.bat`, and `Matrix 7 Tabs.bat`
+- In this folder, create a new folder and title it `Scripts`  
 
-Copy the path address of this folder:  
-`C:\Windows\Scripts`
+- Inside the `Scripts` folder created another called `MatrixEffect` 
 
----
+- Drag all the files from this download into the folder
 
-Search **Edit Environment Variables** in Windows and open it
+- Copy the path address of the folder:  
+  `C:\Windows\Scripts\MatrixEffect`
 
-Go to the **Advanced** tab — you'll see **Environment Variables** at the bottom right
+- Windows search for `Edit Environment Variables` and open it  
 
-In the **User variables** box at the top, select **Path** and click **Edit**
+- System properties will open, select **Environment Variables**
 
-Click **New** and paste the path address:  
-`C:\Windows\Scripts`  
+- In the **User Variables** box at the top, select Path and click Edit  
 
-Then press **OK**
+- Click New and paste the path address:  
+  `C:\Windows\Scripts\MatrixEffect`
 
----
+- *(Optional but fullproof)* Add a path for `C:\Windows\Scripts` as well
 
-In your `C:\Windows\Scripts` folder, double-click `Matrix 7 Tabs` or `Matrix 1 Tab` to preview them  
-Choose whichever you prefer and create a shortcut for it
-
-Press **Win + R** and type `shell:startup`
-
-Drag the shortcut you made into your **Startup** folder
-
-That’s all! The Matrix Effect will now appear whenever you start up your PC
+- Select OK > OK > OK to close Environment Variables 
 
 ---
 
-### NOTE:
-The 7 tabs option might run slowly depending on your computer’s performance  
+### HOW TO PREVIEW THE EFFECTS:
 
-You can easily change the number of tabs, just right-click on the `Matrix 7 Tabs.bat` file and press **Edit**,  
-Then change the number to whatever you prefer
+You can preview the `Matrix Effect 1.1` & `1.2` just by double click, for the Hacker Effects you'll have to:
+
+- Create a shortcut for `Hacker Effect 1.1` & `1.2` 
+
+- Right click shortcut > Properties > Font 
+
+- Select the Cascadia Code font > Apply 
+
+- Select the Layout tab 
+
+- Under the Window Size width & height change the height to 90 > Apply > OK
+
+- Now you can preview the hacker effects and move on to next step
 
 ---
+
+## HOW TO SET IT FOR STARTUP
+
+- Choose whichever you prefer, 
+  - if you want a Hacker Effect copy the shortcut 
+  - if you want a Matrix Effect create a shortcut for it then right click it > cut
+
+- Press `Win + R` and type `shell:startup`  
+
+- Paste the shortcut for the effect into that startup folder
+
+That’s all! The matrix/hacker effect  will now appear whenever you start up your PC.  
+
+---
+
+### NOTE:  
+
+- Don't rename the files or place them in other folders than `C:\Windows\Scripts\MatrixEffect` 
+  unless you know how to change the paths in the files & shortcuts
+
+- The Matrix Effect 1.2 option might run slowly depending on your computer.
+
+  - You can easily change the number of tabs — just right-click on the Matrix 7 Tabs.bat file and press Edit,  
+    then change the number to whatever you prefer on this chunk
+
+```bat
+    :: Number of tabs to open
+    set "count=7"
+```
+
 
 ## Found this useful?<img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="30"><br>
 
