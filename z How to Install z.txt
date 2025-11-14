@@ -17,22 +17,6 @@ HOW TO SETUP:
 
 — Drag all the files from this download into the folder
 
-— Copy the path address of the folder:  
-  C:\Windows\Scripts\MatrixEffect
-
-— Windows search for Edit Environment Variables and open it  
-
-— System properties will open, select Environment Variables
-
-— In the User Variables box at the top, select Path and click Edit  
-
-— Click New and paste the path address:  
-  C:\Windows\Scripts\MatrixEffect
-
-— (Optional but fullproof) Add a path for C:\Windows\Scripts as well
-
-— Select OK > OK > OK to close Environment Variables 
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 HOW TO PREVIEW THE EFFECTS:
